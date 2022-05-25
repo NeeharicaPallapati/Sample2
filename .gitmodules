@@ -1,0 +1,3 @@
+[submodule "Sample1"]
+	path = Sample1
+	url = https://github.com/NeeharicaPallapati/Sample1.git
