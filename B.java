@@ -1,4 +1,4 @@
-import util.A;
+import Sample.A;
 
 public class B {
 public static void main(String args[]){
